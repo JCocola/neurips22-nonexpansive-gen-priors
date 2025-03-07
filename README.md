@@ -29,11 +29,9 @@ The code is written in Python and relies on PyTorch. The following libraries are
 - NumPy  
 - Matplotlib  
 
-The provided notebooks are ready to run on Google Colab.  
-
 ## Running Experiments  
 
-1. Open `Recovery_CS_python_experiment1.ipynb` or `Recovery_CS_python_experiment2.ipynb` in Google Colab or a Jupyter Notebook.  
+1. Open `Recovery_CS_python_experiment1.ipynb` or `Recovery_CS_python_experiment2.ipynb` in a Jupyter Notebook.  
 2. Run the notebook cells to reproduce the experimental results.  
 3. The results will be saved in the `results/` folder.  
 
